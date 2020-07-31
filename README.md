@@ -6,6 +6,10 @@
 AI 자동 투자 봇 만들기, 노트북 하나로 월급을 두 배 불리는 비법   
 <https://class101.net/products/Xl3FzgGJCzgid7nsKIjE>
 
+TensorFlow 2.0 Tutorial for Beginners 16 - Google Stock Price Prediction Using RNN - LSTM   
+<https://www.youtube.com/watch?v=arydWPLDnEc&t=370s>   
+
+
 ## open api   
 키움증권    
 <https://www2.kiwoom.com/nkw.templateFrameSet.do?m=m1408010100>
