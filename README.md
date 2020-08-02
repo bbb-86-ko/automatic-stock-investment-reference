@@ -14,6 +14,9 @@ TensorFlow 2.0 Tutorial for Beginners 16 - Google Stock Price Prediction Using R
 키움증권    
 <https://www2.kiwoom.com/nkw.templateFrameSet.do?m=m1408010100>
 
+기업공시채널   
+<https://kind.krx.co.kr/main.do?method=loadInitPage&scrnmode=1>
+
 ## 라이브러리
 keras   
 <https://keras.io/ko/>   
